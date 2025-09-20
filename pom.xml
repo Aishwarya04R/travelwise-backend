@@ -90,11 +90,7 @@
             <artifactId>stripe-java</artifactId>
             <version>25.13.0</version> <!-- Use the latest version -->
         </dependency>
-        
-              
-        
 	</dependencies>
-        
 
 	<build>
 		<plugins>
@@ -143,6 +139,5 @@
             </build>
         </profile>
     </profiles>
-
 
 </project>
